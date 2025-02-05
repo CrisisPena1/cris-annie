@@ -11,67 +11,67 @@ export class AlbumComponent implements OnInit {
     {
       title: 'Mis momentos Favoritos',
       videos: [
-        { title: 'Video 1', url: '../../assets/video1.mov' },
-        { title: 'Video 2', url: '../../assets/video2.mov' },
-        { title: 'Video 3', url: '../../assets/video19.mov' },
+        { title: 'Video 1', url: 'assets/video1.mp4' },
+        { title: 'Video 2', url: 'assets/video2.mp4' },
+        { title: 'Video 3', url: 'assets/video19.mp4' },
       ],
       imagen: [
-        {url: "../../assets/imagen2.jpg"}
+        {url: "assets/imagen2.jpg"}
       ]
     },
     {
       title: 'Recuerdos de Cenas',
       videos: [
-        { title: 'Video 4', url: '../../assets/video4.mov' },
-        { title: 'Video 5', url: '../../assets/video18.mov' },
-        { title: 'Video 6', url: '../../assets/video3.mov' },
+        { title: 'Video 4', url: 'assets/video4.mp4' },
+        { title: 'Video 5', url: 'assets/video18.mp4' },
+        { title: 'Video 6', url: 'assets/video3.mp4' },
       ],
       imagen: [
-        {url: "../../assets/imagen1.jpg"}
+        {url: "assets/imagen1.jpg"}
       ]
     },
     {
       title: 'Mejor Maquillaje',
       videos: [
-        { title: 'Video 7', url: '../../assets/video8.mov' },
-        { title: 'Video 8', url: '../../assets/video9.mov' },
-        { title: 'Video 9', url: '../../assets/video10.mov' },
+        { title: 'Video 7', url: 'assets/video8.mp4' },
+        { title: 'Video 8', url: 'assets/video9.mp4' },
+        { title: 'Video 9', url: 'assets/video10.mp4' },
       ],
       imagen: [
-        {url: "../../assets/imagen3.jpg"}
+        {url: "assets/imagen3.jpg"}
       ]
     },
     {
       title: ' Arena y Mar',
       videos: [
-        { title: 'Video 10', url: '../../assets/video6.mov' },
-        { title: 'Video 11', url: '../../assets/video22.mov' },
-        { title: 'Video 12', url: '../../assets/video21.mov' },
+        { title: 'Video 10', url: 'assets/video6.mp4' },
+        { title: 'Video 11', url: 'assets/video22.mp4' },
+        { title: 'Video 12', url: 'assets/video21.mp4' },
       ],
       imagen: [
-        {url: "../../assets/imagen4.jpg"}
+        {url: "assets/imagen4.jpg"}
       ]
     },
     {
       title: '2 Meses',
       videos: [
-        { title: 'Video 13', url: '../../assets/video14.mov' },
-        { title: 'Video 14', url: '../../assets/video15.mov' },
-        { title: 'Video 15', url: '../../assets/video16.mov' },
+        { title: 'Video 13', url: 'assets/video14.mp4' },
+        { title: 'Video 14', url: 'assets/video15.mp4' },
+        { title: 'Video 15', url: 'assets/video16.mp4' },
       ],
       imagen: [
-        {url: "../../assets/imagen5.jpg"}
+        {url: "assets/imagen5.jpg"}
       ]
     },
     {
       title: 'Random',
       videos: [
-        { title: 'Video 16', url: '../../assets/video5.mov' },
-        { title: 'Video 17', url: '../../assets/video7.mov' },
-        { title: 'Video 18', url: '../../assets/video20.mov' },
+        { title: 'Video 16', url: 'assets/video5.mp4' },
+        { title: 'Video 17', url: 'assets/video7.mp4' },
+        { title: 'Video 18', url: 'assets/video20.mp4' },
       ],
       imagen: [
-        {url: "../../assets/imagen6.jpg"}
+        {url: "assets/imagen6.jpg"}
       ]
     }
   ]
